@@ -1,4 +1,4 @@
-# Documentação do Projeto Flask
+# Documentação BACKEND SISTEMA DE ALMOXARIFADO
 
 ## Descrição
 Este projeto Flask fornece uma API para acessar dados de departamentos, produtos e gerar PDFs de solicitações e devoluções. Ele interage com a API da plataforma Omie para obter os dados de produtos e departamentos, além de gerar os PDFs com base nos dados fornecidos.
