@@ -46,14 +46,10 @@ O projeto é estruturado da seguinte forma:
 
 ## Execução do Projeto
 1. Certifique-se de que todas as dependências estão instaladas. Você pode instalar as dependências listadas no arquivo `requirements.txt` usando `pip install -r requirements.txt`.
-2. Execute o aplicativo Flask usando `python app.py`.
+2. Execute o aplicativo Flask usando `python run.py`.
 3. O aplicativo estará disponível em `http://localhost:5000`.
 
 ## Configurações Adicionais
 Certifique-se de configurar as variáveis de ambiente necessárias para a autenticação com a API da Omie (`APP_KEY` e `APP_SECRET`).
 
-## Contribuição
-Contribuições são bem-vindas! Se você encontrar algum problema ou quiser adicionar novos recursos, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
-## Licença
-Este projeto está licenciado sob a licença [MIT](https://opensource.org/licenses/MIT).
